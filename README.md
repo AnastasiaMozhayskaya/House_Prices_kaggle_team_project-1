@@ -1,4 +1,4 @@
-# House_Prices_Team_project-1
+# ML project House Prices
 
 **Проект:** предсказание цен на недвижимость
 
